@@ -20,8 +20,7 @@ conda install biopython
 
 Clone this repository and change to the repository directory.
 ```
-git clone
-cd ORF-finder
+git clone https://github.com/smoorsh/ORF-finder.git
 ```
 
 ## Usage Instructions
